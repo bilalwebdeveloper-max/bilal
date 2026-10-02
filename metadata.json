@@ -1,0 +1,6 @@
+{
+  "name": "EMC Skin Clinic Oman – EMC Muscat",
+  "description": "Premium dermatology and dentistry clinic located in Qurum, Al Sarooj Plaza, Muscat, Oman. Professional skin care, laser treatments, and modern dental consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
